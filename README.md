@@ -10,7 +10,7 @@
 ## 📋 目录
 
 1. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)
-2. [国内可用的 ChatGPT 镜像网站推荐](#国内可用的-chatgpt-镜像网站推荐)
+2. [国内可用的 ChatGPT 中文站推荐](#国内可用的-chatgpt-中文站推荐)
 3. [为什么选择 ChatGPT 中文版？](#为什么选择-chatgpt-中文版)
 4. [ChatGPT 官网与中文版的区别](#chatgpt-官网与中文版的区别)
 5. [ChatGPT 中文版的使用指南](#chatgpt-中文版的使用指南)
